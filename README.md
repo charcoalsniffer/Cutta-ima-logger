@@ -1,19 +1,19 @@
-# Discord-Image-logger
-🚀Easily the best image logger you can get, no paid plans🚀
+# Cutta-Image-logger
+🚀Easily the best image logger you can get (hosted with femboi.pics) , no paid plans🚀
 🚀Get Every information about a computer just with a click on an image on discord or guilded🚀
 
-# 🔥Features🔥
+# 🎀Features
 
-- 🦾Fully undetectable [FUD]
-- 🦾 Works for every Browser i know (Waterfox, Tor Browser, Firefox, Chrome, Opera Stable, OperaGX, Brave, Edge, Internet Explorer, Microsoft Edge)
-- 🦾 Sends Cookies (all sites)
-- 🦾 Sends Passwords
-- 🦾 Sends Discord Token
-- 🦾 Sends System information
-- 🦾 Sends Search History
-- 🦾 Sends Bookmars
+- 💝Fully undetectable [FUD]
+- 💝 Works for every Browser i know (Waterfox, Tor Browser, Firefox, Chrome, Opera Stable, OperaGX, Brave, Edge, Internet Explorer, Microsoft Edge)
+- 💝 Sends Cookies (all sites)
+- 💝 Sends Passwords
+- 💝 Sends Discord Token
+- 💝 Sends System information
+- 💝 Sends Search History
+- 💝 Sends Bookmars
 
-# 👨‍💻Tutorial👨‍💻
+# !!Tutorial!!
 
 ![image](https://github.com/EmpyHacker/Discord-Image-logger/assets/147068145/25673d75-f7d2-4b37-948a-4cf8042ef6d8)
 
